@@ -1,3 +1,5 @@
+package subscription;
+
 public class Silver implements Subscription {
 
     DataBase dataBase;

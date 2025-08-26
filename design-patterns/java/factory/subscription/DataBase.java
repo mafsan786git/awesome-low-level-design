@@ -1,3 +1,5 @@
+package subscription;
+
 import java.util.HashMap;
 
 public class DataBase {

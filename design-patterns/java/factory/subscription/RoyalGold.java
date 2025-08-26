@@ -1,3 +1,5 @@
+package subscription;
+
 public class RoyalGold implements Subscription {
 
     DataBase dataBase;

@@ -1,3 +1,5 @@
+package subscription;
+
 public class Application {
     static public DataBase dataBase;
 

@@ -1,3 +1,5 @@
+package subscription;
+
 public class Gold implements Subscription {
 
     DataBase dataBase;

@@ -1,3 +1,5 @@
+package subscription;
+
 public class Platinum implements Subscription {
 
     DataBase dataBase;
